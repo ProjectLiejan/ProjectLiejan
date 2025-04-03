@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey there, This repo is used for my projects.
+
+Liejan 2025
 
 <!--
 **ProjectLiejan/ProjectLiejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
