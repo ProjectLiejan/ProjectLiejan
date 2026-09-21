@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  Heya there, I'm Liejan Lawrsel Luengo, A software and web developer. I make projects for fun while learning them. While you're here, why not check out some of my projects :) <br>
+  Heya there, I'm Liejan Lawrsel Luengo, A software and web developer. I make projects for fun while learning them. While you're here, why not check out some of my projects :) <br> <hr>
   For the past years I have been developing my project called <a href="https://liefos.netlify.app/">liefOS</a> (Liejan's Fluid OS), A virtual mobile operating system with very unique features, check it out on the project website at <a href="https://liefos.netlify.app/">https://liefos.netlify.app/</a> or the project <a href="https://liejan.netlify.app/">GitHub</a>!
 </p>
 
