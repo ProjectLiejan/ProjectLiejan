@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=42&pause=1000&color=FFF&center=true&vcenter=true&width=800&height=120&lines=Liejan+Lawrsel+Luengo;Web+and+Software+Developer" alt="animation"/>
-</p>
+<h1 align="center">
+  Liejan Lawrsel Luengo
+</h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
